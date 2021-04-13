@@ -13,7 +13,7 @@ Fields for user to register themselve are username, password and password confir
 A 6 digit pin is sent to email. User will enter the 6 digit pin and upon verification, the user is registed and login sucessfully. 
 Now the user can access to the profile page where user can update the name and avatar.
 
-### setup
+### Setup
 1. composer install
 2. npm install
 3. copy .env.example file to .env
